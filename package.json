@@ -13,6 +13,7 @@
     "deploy": "gh-pages -d build"
   },
   "dependencies": {
+    "gh-pages": "^2.1.1",
     "vue": "^2.5.11"
   },
   "browserslist": [
