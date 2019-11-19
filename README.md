@@ -1,4 +1,4 @@
-# startbase
+# Team Generator
 
 > A Vue.js project
 
